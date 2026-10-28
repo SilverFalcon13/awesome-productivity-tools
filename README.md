@@ -92,6 +92,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 1. **[Forest](https://www.forestapp.cc)** - App that helps stay focused by planting virtual trees.
 2. **[Freedom](https://freedom.to)** - Block distracting websites and apps.
 3. **[Focus@Will](https://www.focusatwill.com)** - Music service based on human neuroscience to improve focus.
+4. **[Ripple](https://ripplefocus.github.io/en/)** - Free app blocker for iOS 16+ and Android with scheduled locks, a 15-minute cooldown before a block can be turned off, and an optional parent unlock code. Runs locally with no account or ads.
 
 ## File Organization
 
